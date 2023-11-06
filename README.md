@@ -1,5 +1,5 @@
 # Ex. No: 6 Creating Cursors using PL/SQL
-
+## DATE:26/09/2023
 ### AIM: To create a cursor using PL/SQL.
 
 ### Steps:
